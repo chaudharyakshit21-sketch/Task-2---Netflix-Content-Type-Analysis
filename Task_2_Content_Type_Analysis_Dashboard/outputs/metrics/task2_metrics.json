@@ -1,0 +1,26 @@
+{
+  "movies": 6123,
+  "tv_shows": 2663,
+  "total": 8786,
+  "movie_share": 69.7,
+  "tv_share": 30.3,
+  "ratio": 2.3,
+  "median_runtime": 98.0,
+  "mean_runtime": 99.6,
+  "one_season_pct": 67.2,
+  "three_plus_seasons_pct": 17.0,
+  "movies_120plus_pct": 19.5,
+  "tv_share_additions": {
+    "2014": 20.8,
+    "2015": 31.7,
+    "2016": 41.1,
+    "2017": 29.5,
+    "2018": 25.0,
+    "2019": 29.4,
+    "2020": 31.7,
+    "2021": 33.7
+  },
+  "kids_tv_share": 51.2,
+  "adults_tv_share": 28.6,
+  "peak_tv_share_year": 2016
+}
